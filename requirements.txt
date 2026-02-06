@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+joblib
+openpyxl
+seaborn
+streamlit>=1.40.0
+instaloader
+requests
+beautifulsoup4
